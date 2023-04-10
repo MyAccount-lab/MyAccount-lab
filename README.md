@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MyAccount-lab
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on every coding that I have
-- 📫 How to reach me :williamsteiner66@gmail.com 
+- 👋 Hi friends
+- 👀 Security Researcher
+- 🌱 Learning Penetration Testing
 
 <!---
 MyAccount-lab/MyAccount-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
